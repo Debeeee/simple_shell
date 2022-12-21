@@ -13,9 +13,9 @@ void sig_handler(int sig_num)
 }
 
 /**
-* _EOF - handles the End of File
-* @len: return value of getline function
-* @buff: buffer
+ * _EOF - handles the End of File
+ * @len: return value of getline function
+ * @buff: buffer
  */
 void _EOF(int len, char *buff)
 {
